@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development AI and Cryptography
 - 🌱 I’m currently learning web development and python
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me dm me on git
+- 📫 Reach me through dm on Github
 
 <!---
 Silence2kill/Silence2kill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
