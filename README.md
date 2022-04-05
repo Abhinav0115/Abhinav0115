@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silence2kill aka Abhinav
-- 👀 I’m interested in web development AI and Cryptography
-- 🌱 I’m currently learning web development and python
+- 👀 I’m interested in web development and App Development
+- 🌱 I’m currently learning web development, python and Flutter
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me through dm on Github
 
