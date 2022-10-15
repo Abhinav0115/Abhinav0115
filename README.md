@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me through dm on Github or [LinkedIn](https://www.linkedin.com/in/abhinav0115/)
-
-
+    
 <!---
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav0115&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 Silence2kill/Silence2kill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
