@@ -4,6 +4,8 @@
 - 👋 Hola, I’m Abhinav Anand
 - 👀 I’m interested in web development and App Development stuff
 - 🌱 I’m currently learning ReactJS
+- ⛄ Skills:  HTML, CSS, JavaScript, ReactJs, JQuery, C++, Python, etc. 
+- ☕ I developed many websites using ReactJs web technology, and you can find their links in my github account.. 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me through dm on Github or [LinkedIn](https://www.linkedin.com/in/abhinav0115/)
     
