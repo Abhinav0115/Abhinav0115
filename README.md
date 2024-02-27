@@ -38,11 +38,11 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left"  style = "background-color: white;">
 <a href="https://www.leetcode.com/Abhinav0115" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/187772096/6e9a8300-945d-11e9-9b2a-24e76419ca2a" alt="-" height="30" width="80" /></a> 
-<a href="https://www.linkedin.com/in/abhinav0115/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="https://www.linkedin.com/in/abhinav0115/" height="30" width="80"/></a> 
-<a href="https://codepen.io/abhinav0115" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyddmz_9plsseSSqxU-QHdq8aPPoKhNiqDQ&usqp=CAU" alt="abhinav0115" height="30" width="80" /></a> 
-<a href="https://codesandbox.io/u/Abhinav0115" target="blank"><img align="center" src="https://image4.owler.com/logo/codesandbox_owler_20190520_073046_original.png" alt="abhinav0115" height="30" width="80" /></a> 
-<a href="https://www.codechef.com/users/silence2kill" target="blank"><img align="center" src="https://image.pngaaa.com/788/4464788-middle.png" alt="silence2kill" height="30" width="80" /></a> 
-<a href="https://www.hackerrank.com/silence2kill" target="blank"><img align="center" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" alt="silence2kill" height="30" width="80" /></a> 
+<a href="https://www.linkedin.com/in/abhinav0115/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="https://www.linkedin.com/in/abhinav0115/" height="30" width="70"/></a> 
+<a href="https://codepen.io/abhinav0115" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyddmz_9plsseSSqxU-QHdq8aPPoKhNiqDQ&usqp=CAU" alt="abhinav0115" height="30" width="70" /></a> 
+<a href="https://codesandbox.io/u/Abhinav0115" target="blank"><img align="center" src="https://image4.owler.com/logo/codesandbox_owler_20190520_073046_original.png" alt="abhinav0115" height="30" width="70" /></a> 
+<a href="https://www.codechef.com/users/silence2kill" target="blank"><img align="center" src="https://image.pngaaa.com/788/4464788-middle.png" alt="silence2kill" height="30" width="70" /></a> 
+<a href="https://www.hackerrank.com/silence2kill" target="blank"><img align="center" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" alt="silence2kill" height="30" width="70" /></a> 
 
 </p>
 
